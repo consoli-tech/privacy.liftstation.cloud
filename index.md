@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/Consolidated-Utilities/LiftStation.cloud-Privacy-Policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The LiftStation.cloud software suite consists of an iOS and Android app used to collect data, a server side application to validate and store the data in a database, and a web application that generates reports in the Excel format. None of this software is designed to track user's movements. No location data is collected. The software collects the bare minimum data it needs to function. This document will give an overview of data collected.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data we collect
+If you are using this app, your supervisor has added your name and phone number to the database. When you enter well and lift station data that data is collected, along with the date of the reading and the time.
 
-### Markdown
+## Why is this information collected?
+Your phone number and name are collected so that you can login to the app. It is necessary to restrict usage of the app to people who have been approved. Using your phone number allows you to receive a unique PIN every time you login instead of having to remember a password. Well and lift station pump readings, rainfall, and chlroine residuals are collected so that the web app can generate reports. The date and time are collected so that the readings can be associated with the correct date.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How is this data collected
+Your phone number and name are added by your supervisor through a web application. Well and lift station data, and the dates and times of that data are collected through forms you fill out on your phone.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Consolidated-Utilities/LiftStation.cloud-Privacy-Policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What will this information be used for? Who has access?
+This information will be used by staff to generate reports that will be given to the EPD. For an exact list of who has access, ask your supervisor.
