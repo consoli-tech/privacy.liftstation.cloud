@@ -19,8 +19,8 @@ Your phone number is collected so that you can login. Your email address and nam
 
 ### Non-User Data
 In addition to the user data listed above, the following data is stored: 
-- Names of Wells and Lift Stations
 - Names of water systems that make up your organization
+- Names of Wells and Lift Stations and what water system they belong to
 - Safe drinking water permit number, and which system it applies to
 - Groundwater Withdrawal Permit number, which aquifer it covers, and which wells it covers
 - Routes (a route is a collection of wells and lift stations in driving distance...)
