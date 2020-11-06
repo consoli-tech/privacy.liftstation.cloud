@@ -9,7 +9,7 @@ The data collected by the software is the bare minimum needed to function and is
 If you are using this app, your supervisor has added your name and phone number to the database. When you enter well and lift station data that data is collected, along with the date of the reading and the timestamp.
 
 #### Why is this information collected?
-Your phone number is collected so that you can login to the app. Your name is collected so that humans can edit your account and view readings you have entered. Well and lift station data is collected so that it can be stored and reports can be generated. 
+Your phone number is collected so that you can login to the app. Well and lift station data is collected so that it can be stored and reports can be generated. 
 
 ### Web Users
 If you are using the web app you or another web user added your name, phone number and email address to the app. 
