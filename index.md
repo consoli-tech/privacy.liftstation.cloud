@@ -12,10 +12,10 @@ If you are using this app, your supervisor has added your name and phone number 
 Your phone number is collected so that you can login to the app. Well and lift station data is collected so that it can be stored and reports can be generated. 
 
 ### Web Users
-If you are using the web app you or another web user added your name, phone number and email address to the app. 
+If you are using the web app you or another web user added your name, phone number, operator class and email address to the app. 
 
 #### Why is this information collected?
-Your phone number is collected so that you can login. Your email address and name are collected so that they will appear on reports to be given to the EPD.
+Your phone number is collected so that you can login. Your email address, operator class and name are collected so that they will appear on reports to be given to the EPD. Additionally you can choose to have reports emailed to you automatically so that you don't have to log into the web app.
 
 ### Non-User Data
 In addition to the user data listed above, the following data is stored: 
