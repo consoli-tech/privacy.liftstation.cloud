@@ -12,7 +12,7 @@ For convenience the app does not use passwords - you authenticate with a PIN sen
 If you are using this app, an Operator has added your name and phone number to the database. When you enter well and lift station data that data is collected, along with the date of the reading and the timestamp. These readings are associated with you. In the event that your account it deleted by an Operator these readings will no longer be associated with your account - they will be marked as having been read by a deleted user.
 
 #### Face ID
-If you would like to use Face ID you are submitting a photo of your face. This will be uploaded and stored on a cloud storage service. When you sign up and submit a photo that photo will remain on S3 and be displayed to you under the Face ID screen in the Technician App. It will also appear in the Operators app by your user profile. If you decide to turn off Face ID this photo will be deleted.
+If you would like to use Face ID you are submitting a photo of your face. This will be uploaded and stored on a cloud storage service. When you sign up and submit a photo that photo will remain on cloud storage and be displayed to you under the Face ID screen in the Technician App. It will also appear in the Operators app by your user profile. If you decide to turn off Face ID this photo will be deleted.
 
 Every time you login with Face ID you will need to take a photo of your face. These photos will be stored on a cloud storage service but they will be deleted after one day. Only the original photo is retained until your account is deleted by an operator or until you deactivate Face ID.
 
