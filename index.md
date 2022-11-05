@@ -1,3 +1,4 @@
+# Consolidated Utilities, Inc.
 ## Privacy Policy
 Your privacy is important to us. It is Consolidated Utilities, Inc.&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, [https://liftstation.cloud](https://liftstation.cloud), and other sites we own and operate. 
 
@@ -159,4 +160,7 @@ We do not use this type of cookie on our site.
 Targeting/advertising cookies help determine what promotional content is most relevant and appropriate to you and your interests. Websites may use them to deliver targeted advertising or limit the number of times you see an advertisement. This helps companies improve the effectiveness of their campaigns and the quality of content presented to you. These cookies may be set by the website you’re visiting (first-party) or by third-party services. Targeting/advertising cookies set by third-parties may be used to track you on other websites that use the same third-party service.
 
 We do not use this type of cookie on our site. 
+
+### Binding Conditions
+By using this software the within user of website and app features of Consolidated Utilities, Inc. does hereby agree to be bound by the policy set forth here in above.
 
