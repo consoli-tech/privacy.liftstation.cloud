@@ -1,6 +1,6 @@
-# Consolidated Utilities, Inc.
+# Consoli Tech, LLC
 ## Privacy Policy
-Your privacy is important to us. It is Consolidated Utilities, Inc.&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, [https://liftstation.cloud](https://liftstation.cloud), and other sites we own and operate. 
+Your privacy is important to us. It is Consoli Tech, LLC&#39;s policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, [https://liftstation.cloud](https://liftstation.cloud), and other sites we own and operate. 
 
 Personal information is any information about you which can be used to identify you. This includes information about you as a person (such as name, address, and date of birth), your devices, payment details, and even information about how you use a website or online service. 
 
@@ -120,7 +120,7 @@ For any questions or concerns regarding your privacy, you may contact us using t
 
 Brian Abbott
 
-brian@consolidatedutilities.com 
+brian@consoli.tech
 
 ## Cookie Policy
 We use cookies to help improve your experience of our website at [https://liftstation.cloud](https://liftstation.cloud). This cookie policy is part of Consolidated Utilities, Inc.&#39;s privacy policy. It covers the use of cookies between your device and our site.
@@ -162,5 +162,5 @@ Targeting/advertising cookies help determine what promotional content is most re
 We do not use this type of cookie on our site. 
 
 ### Binding Conditions
-By using this software the within user of website and app features of Consolidated Utilities, Inc. does hereby agree to be bound by the policy set forth here in above.
+By using this software the within user of website and app features of Consoli Tech, LLC does hereby agree to be bound by the policy set forth here in above.
 
