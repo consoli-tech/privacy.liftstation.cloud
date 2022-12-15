@@ -163,4 +163,3 @@ We do not use this type of cookie on our site.
 
 ### Binding Conditions
 By using this software the within user of website and app features of Consoli Tech, LLC does hereby agree to be bound by the policy set forth here in above.
-
